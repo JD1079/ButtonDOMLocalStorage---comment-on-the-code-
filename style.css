@@ -4,14 +4,14 @@ CSS
             text-align: center;
             margin-top: 20%;
         }
-/this is where you can customize the type of font you want your writing to be in,where you want the text to be at (left ,right or center of the screen
-and margin shows how big the text box will be in
+/*this is where you can customize the type of font you want your writing to be in,where you want the text to be at (left ,right or center of the screen
+and margin shows how big the text box will be in*/
         button {
             padding: 10px 20px;
             font-size: 16px;
             cursor: pointer;
             display: inline-block;
         }
-/This is the how big the font is for the bontton text, how big the area of the button will be,
+/*This is the how big the font is for the bontton text, how big the area of the button will be,
 the type of cursor you want ,
-and where its gonna be displayed at
+and where its gonna be displayed at*/
